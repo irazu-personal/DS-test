@@ -3,7 +3,7 @@ import { Card } from './Card';
 import { Button } from './Button';
 
 export default {
-  title: '2-Components/Card',
+  title: 'Components/Card',
   component: Card,
   parameters: { layout: 'padded' },
 };

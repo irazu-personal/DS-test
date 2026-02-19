@@ -6,8 +6,9 @@
   "scripts": {
     "build:tokens": "node scripts/tokens-to-css.js",
     "storybook": "storybook dev -p 6006",
-    "storybook:local": "storybook dev -p 6006 --host 127.0.0.1",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "preview": "npm run build-storybook && npx serve storybook-static -p 6006",
+    "preview:serve": "python3 -m http.server 6006 --directory storybook-static"
   },
   "dependencies": {
     "react": "^18.2.0",
