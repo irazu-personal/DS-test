@@ -24,6 +24,14 @@ function toKebab(str) {
   return String(str).replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase();
 }
 
+function toSafeCssName(str) {
+  return String(str)
+    .replace(/\s+/g, '-')
+    .replace(/[()]/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 // Convert CSS var key to ref key for {fontSize.6}, {fontWeights.sf-hebrew-0}
 function kebabToRefKey(k) {
   const parts = k.split('-');
@@ -46,7 +54,8 @@ function flattenTokens(obj, prefix = '', refMap = null) {
   const out = {};
   for (const key of Object.keys(obj)) {
     const val = obj[key];
-    const name = prefix ? `${prefix}-${toKebab(key)}` : toKebab(key);
+    const rawName = prefix ? `${prefix}-${toKebab(key)}` : toKebab(key);
+    const name = toSafeCssName(rawName);
     if (val !== null && typeof val === 'object' && '$value' in val) {
       const type = val.$type || 'string';
       const v = val.$value;

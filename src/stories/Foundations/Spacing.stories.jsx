@@ -8,7 +8,7 @@ const paddingTokens = [
 ];
 
 export default {
-  title: 'Foundations/Spacing',
+  title: '1-Foundations/Spacing',
   parameters: { layout: 'padded' },
 };
 

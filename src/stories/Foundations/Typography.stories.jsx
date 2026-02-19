@@ -7,12 +7,12 @@ const styles = [
   { label: 'Title 4', varBase: 'text-style-title-title-4' },
   { label: 'Title 5', varBase: 'text-style-title-title-5' },
   { label: 'Title 6', varBase: 'text-style-title-title-6' },
-  { label: 'Body 1 (default)', varBase: 'text-style-body (md)-body-1-default' },
-  { label: 'Body 1 (accent)', varBase: 'text-style-body (md)-body-1-accent' },
-  { label: 'Body 2 (default)', varBase: 'text-style-body (sm)-body-2-default' },
-  { label: 'Body 2 (accent)', varBase: 'text-style-body (sm)-body-2-accent' },
-  { label: 'Body 3 (default)', varBase: 'text-style-body (xs)-body-3-default' },
-  { label: 'Body 3 (emphasize)', varBase: 'text-style-body (xs)-body-3-emphasize' },
+  { label: 'Body 1 (default)', varBase: 'text-style-body-md-body-1-default' },
+  { label: 'Body 1 (accent)', varBase: 'text-style-body-md-body-1-accent' },
+  { label: 'Body 2 (default)', varBase: 'text-style-body-sm-body-2-default' },
+  { label: 'Body 2 (accent)', varBase: 'text-style-body-sm-body-2-accent' },
+  { label: 'Body 3 (default)', varBase: 'text-style-body-xs-body-3-default' },
+  { label: 'Body 3 (emphasize)', varBase: 'text-style-body-xs-body-3-emphasize' },
 ];
 
 function TextSample({ label, varBase }) {
@@ -37,7 +37,7 @@ function TextSample({ label, varBase }) {
 }
 
 export default {
-  title: 'Foundations/Typography',
+  title: '1-Foundations/Typography',
   parameters: { layout: 'padded' },
 };
 

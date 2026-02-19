@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from './Button';
 
 export default {
-  title: 'Components/Button',
+  title: '2-Components/Button',
   component: Button,
   parameters: { layout: 'padded' },
 };
