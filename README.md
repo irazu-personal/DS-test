@@ -16,6 +16,15 @@ npm run build:tokens   # regenerate CSS from tokens
 npm run storybook      # open at http://localhost:6006
 ```
 
+If `npm run storybook` fails (e.g. `uv_interface_addresses` or "Unknown system error"), preview the built Storybook instead:
+
+```bash
+npm run build-storybook
+npm run preview:serve  # serves storybook-static on http://localhost:6006
+```
+
+Then open **http://localhost:6006** in your browser. (Uses Python’s built-in HTTP server; no Node dev server needed.)
+
 ## Token sources
 
 - `tokens-colors/` — Global and Semantic colors  
