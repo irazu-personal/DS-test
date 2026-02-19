@@ -1,0 +1,766 @@
+{
+  "Neutral": {
+    "0": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "💎 Token: 0\n\n➡️ Hex: #FFFFFF\n\n💧 Opacity: 100%"
+    },
+    "25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fbfbfb",
+      "$description": "💎 Token: 25\n\n➡️ Hex: #FBFBFB\n\n💧 Opacity: 100%"
+    },
+    "50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f3f3f4",
+      "$description": "💎 Token: 50\n\n➡️ Hex: #F3F3F4\n\n💧 Opacity: 100%"
+    },
+    "100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#e3e4e6",
+      "$description": "💎 Token: 100\n\n➡️ Hex: #E3E4E6\n\n💧 Opacity: 100%"
+    },
+    "200": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#d2d4d7",
+      "$description": "💎 Token: 200\n\n➡️ Hex: #D2D4D7\n\n💧 Opacity: 100%"
+    },
+    "300": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#bbbec2",
+      "$description": "💎 Token: 300\n\n➡️ Hex: #BBBEC2\n\n💧 Opacity: 100%"
+    },
+    "400": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#94989f",
+      "$description": "💎 Token: 400\n\n➡️ Hex: #94989F\n\n💧 Opacity: 100%"
+    },
+    "500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#71767d",
+      "$description": "💎 Token: 500\n\n➡️ Hex: #71767D\n\n💧 Opacity: 100%"
+    },
+    "600": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#585c63",
+      "$description": "💎 Token: 600\n\n➡️ Hex: #585C63\n\n💧 Opacity: 100%"
+    },
+    "700": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#46494f",
+      "$description": "💎 Token: 700\n\n➡️ Hex: #46494F\n\n💧 Opacity: 100%"
+    },
+    "800": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#292b2e",
+      "$description": "💎 Token: 800\n\n➡️ Hex: #292B2E\n\n💧 Opacity: 100%"
+    },
+    "900": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#1d1e20",
+      "$description": "💎 Token: 900\n\n➡️ Hex: #1D1E20\n\n💧 Opacity: 100%"
+    },
+    "1000": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#131416",
+      "$description": "💎 Token: 1000\n\n➡️ Hex: #131416\n\n💧 Opacity: 100%"
+    }
+  },
+  "Blue": {
+    "25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f4f8fe",
+      "$description": "💎 Token: 25\n\n➡️ Hex: #F4F8FE\n\n💧 Opacity: 100%"
+    },
+    "50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#ecf2fd",
+      "$description": "💎 Token: 50\n\n➡️ Hex: #ECF2FD\n\n💧 Opacity: 100%"
+    },
+    "100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#d9e5fd",
+      "$description": "💎 Token: 100\n\n➡️ Hex: #D9E5FD\n\n💧 Opacity: 100%"
+    },
+    "200": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#c0d4fc",
+      "$description": "💎 Token: 200\n\n➡️ Hex: #C0D4FC\n\n💧 Opacity: 100%"
+    },
+    "300": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#9fbefb",
+      "$description": "💎 Token: 300\n\n➡️ Hex: #9FBEFB\n\n💧 Opacity: 100%"
+    },
+    "400": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#6596f7",
+      "$description": "💎 Token: 400\n\n➡️ Hex: #6596F7\n\n💧 Opacity: 100%"
+    },
+    "500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#306feb",
+      "$description": "💎 Token: 500\n\n➡️ Hex: #306FEB\n\n💧 Opacity: 100%"
+    },
+    "600": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#0d50d4",
+      "$description": "💎 Token: 600\n\n➡️ Hex: #0D50D4\n\n💧 Opacity: 100%"
+    },
+    "700": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#003db4",
+      "$description": "💎 Token: 700\n\n➡️ Hex: #003DB4\n\n💧 Opacity: 100%"
+    },
+    "800": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#0b2765",
+      "$description": "💎 Token: 800\n\n➡️ Hex: #0B2765\n\n💧 Opacity: 100%"
+    },
+    "900": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#121d36",
+      "$description": "💎 Token: 900\n\n➡️ Hex: #121D36\n\n💧 Opacity: 100%"
+    }
+  },
+  "Red": {
+    "25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fef5f7",
+      "$description": "💎 Token: 25\n\n➡️ Hex: #FEF5F7\n\n💧 Opacity: 100%"
+    },
+    "50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#feeff2",
+      "$description": "💎 Token: 50\n\n➡️ Hex: #FEEFF2\n\n💧 Opacity: 100%"
+    },
+    "100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fddce2",
+      "$description": "💎 Token: 100\n\n➡️ Hex: #FDDCE2\n\n💧 Opacity: 100%"
+    },
+    "200": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fcc6d0",
+      "$description": "💎 Token: 200\n\n➡️ Hex: #FCC6D0\n\n💧 Opacity: 100%"
+    },
+    "300": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fca6b6",
+      "$description": "💎 Token: 300\n\n➡️ Hex: #FCA6B6\n\n💧 Opacity: 100%"
+    },
+    "400": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f76983",
+      "$description": "💎 Token: 400\n\n➡️ Hex: #F76983\n\n💧 Opacity: 100%"
+    },
+    "500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#e52044",
+      "$description": "💎 Token: 500\n\n➡️ Hex: #E52044\n\n💧 Opacity: 100%"
+    },
+    "600": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#bb0021",
+      "$description": "💎 Token: 600\n\n➡️ Hex: #BB0021\n\n💧 Opacity: 100%"
+    },
+    "700": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#970016",
+      "$description": "💎 Token: 700\n\n➡️ Hex: #970016\n\n💧 Opacity: 100%"
+    },
+    "800": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#5b1019",
+      "$description": "💎 Token: 800\n\n➡️ Hex: #5B1019\n\n💧 Opacity: 100%"
+    },
+    "900": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#3a1318",
+      "$description": "💎 Token: 900\n\n➡️ Hex: #3A1318\n\n💧 Opacity: 100%"
+    }
+  },
+  "Green": {
+    "25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f3f9f6",
+      "$description": "💎 Token: 25\n\n➡️ Hex: #F3F9F6\n\n💧 Opacity: 100%"
+    },
+    "50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#e9f5ef",
+      "$description": "💎 Token: 50\n\n➡️ Hex: #E9F5EF\n\n💧 Opacity: 100%"
+    },
+    "100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#d3ebe0",
+      "$description": "💎 Token: 100\n\n➡️ Hex: #D3EBE0\n\n💧 Opacity: 100%"
+    },
+    "200": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#b2ddc9",
+      "$description": "💎 Token: 200\n\n➡️ Hex: #B2DDC9\n\n💧 Opacity: 100%"
+    },
+    "300": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#89cbac",
+      "$description": "💎 Token: 300\n\n➡️ Hex: #89CBAC\n\n💧 Opacity: 100%"
+    },
+    "400": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#44aa7a",
+      "$description": "💎 Token: 400\n\n➡️ Hex: #44AA7A\n\n💧 Opacity: 100%"
+    },
+    "500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#11874f",
+      "$description": "💎 Token: 500\n\n➡️ Hex: #11874F\n\n💧 Opacity: 100%"
+    },
+    "600": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#006a37",
+      "$description": "💎 Token: 600\n\n➡️ Hex: #006A37\n\n💧 Opacity: 100%"
+    },
+    "700": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#00552a",
+      "$description": "💎 Token: 700\n\n➡️ Hex: #00552A\n\n💧 Opacity: 100%"
+    },
+    "800": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#09311c",
+      "$description": "💎 Token: 800\n\n➡️ Hex: #09311C\n\n💧 Opacity: 100%"
+    },
+    "900": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#0e1a14",
+      "$description": "💎 Token: 900\n\n➡️ Hex: #0E1A14\n\n💧 Opacity: 100%"
+    }
+  },
+  "Orange": {
+    "25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fdf6ee",
+      "$description": "💎 Token: 25\n\n➡️ Hex: #FDF6EE\n\n💧 Opacity: 100%"
+    },
+    "50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f9f2e8",
+      "$description": "💎 Token: 50\n\n➡️ Hex: #F9F2E8\n\n💧 Opacity: 100%"
+    },
+    "100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f4e2cd",
+      "$description": "💎 Token: 100\n\n➡️ Hex: #F4E2CD\n\n💧 Opacity: 100%"
+    },
+    "200": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#edcfac",
+      "$description": "💎 Token: 200\n\n➡️ Hex: #EDCFAC\n\n💧 Opacity: 100%"
+    },
+    "300": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#edb169",
+      "$description": "💎 Token: 300\n\n➡️ Hex: #EDB169\n\n💧 Opacity: 100%"
+    },
+    "400": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#e47e03",
+      "$description": "💎 Token: 400\n\n➡️ Hex: #E47E03\n\n💧 Opacity: 100%"
+    },
+    "500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#b85c00",
+      "$description": "💎 Token: 500\n\n➡️ Hex: #B85C00\n\n💧 Opacity: 100%"
+    },
+    "600": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#934600",
+      "$description": "💎 Token: 600\n\n➡️ Hex: #934600\n\n💧 Opacity: 100%"
+    },
+    "700": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#763700",
+      "$description": "💎 Token: 700\n\n➡️ Hex: #763700\n\n💧 Opacity: 100%"
+    },
+    "800": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#3d220b",
+      "$description": "💎 Token: 800\n\n➡️ Hex: #3D220B\n\n💧 Opacity: 100%"
+    },
+    "900": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#291b0e",
+      "$description": "💎 Token: 900\n\n➡️ Hex: #291B0E\n\n💧 Opacity: 100%"
+    }
+  },
+  "Brand": {
+    "0": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "💎 Token: 0\n\n➡️ Hex: #FFFFFF\n\n💧 Opacity: 100%"
+    },
+    "25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#fbfbfb",
+      "$description": "💎 Token: 25\n\n➡️ Hex: #FBFBFB\n\n💧 Opacity: 100%"
+    },
+    "50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#f3f3f4",
+      "$description": "💎 Token: 50\n\n➡️ Hex: #F3F3F4\n\n💧 Opacity: 100%"
+    },
+    "100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#e3e4e6",
+      "$description": "💎 Token: 100\n\n➡️ Hex: #E3E4E6\n\n💧 Opacity: 100%"
+    },
+    "200": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#d2d4d7",
+      "$description": "💎 Token: 200\n\n➡️ Hex: #D2D4D7\n\n💧 Opacity: 100%"
+    },
+    "300": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#bbbec2",
+      "$description": "💎 Token: 300\n\n➡️ Hex: #BBBEC2\n\n💧 Opacity: 100%"
+    },
+    "400": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#94989f",
+      "$description": "💎 Token: 400\n\n➡️ Hex: #94989F\n\n💧 Opacity: 100%"
+    },
+    "500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#71767d",
+      "$description": "💎 Token: 500\n\n➡️ Hex: #71767D\n\n💧 Opacity: 100%"
+    },
+    "600": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#585c63",
+      "$description": "💎 Token: 600\n\n➡️ Hex: #585C63\n\n💧 Opacity: 100%"
+    },
+    "700": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#46494f",
+      "$description": "💎 Token: 700\n\n➡️ Hex: #46494F\n\n💧 Opacity: 100%"
+    },
+    "800": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#292b2e",
+      "$description": "💎 Token: 800\n\n➡️ Hex: #292B2E\n\n💧 Opacity: 100%"
+    },
+    "900": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#1d1e20",
+      "$description": "💎 Token: 900\n\n➡️ Hex: #1D1E20\n\n💧 Opacity: 100%"
+    },
+    "1000": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#131416",
+      "$description": "💎 Token: 1000\n\n➡️ Hex: #131416\n\n💧 Opacity: 100%"
+    }
+  },
+  "Extended": {
+    "foxtons-500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#007864",
+      "$description": "💎 Token: foxtons-500\n\n➡️ Hex: #007864\n\n💧 Opacity: 100%"
+    },
+    "turquoise-500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#2598b8",
+      "$description": "💎 Token: turquoise-500\n\n➡️ Hex: #2598B8\n\n💧 Opacity: 100%"
+    },
+    "purple-500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#8c5ecc",
+      "$description": "💎 Token: purple-500\n\n➡️ Hex: #8C5ECC\n\n💧 Opacity: 100%"
+    },
+    "violet-500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#5e32a6",
+      "$description": "💎 Token: violet-500\n\n➡️ Hex: #5E32A6\n\n💧 Opacity: 100%"
+    },
+    "pink-500": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ]
+      },
+      "$type": "color",
+      "$value": "#e53289",
+      "$description": "💎 Token: pink-500\n\n➡️ Hex: #E53289\n\n💧 Opacity: 100%"
+    }
+  }
+}

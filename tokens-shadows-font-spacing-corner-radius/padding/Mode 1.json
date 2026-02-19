@@ -1,0 +1,110 @@
+{
+  "padding-01": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 2,
+    "$description": "➡️ used in tags ➡️  Misprint: פשגגןמע"
+  },
+  "padding-04": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 12,
+    "$description": "➡️ used in inputs ➡️  Misprint: פשגגןמע"
+  },
+  "padding-05": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 16,
+    "$description": "➡️ used in list vertical padding, toast, floating btn ➡️  Misprint: פשגגןמע"
+  },
+  "padding-07": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 24,
+    "$description": "➡️ used in buttons, modals, list horizantal padding, phone margins  ➡️  Misprint: פשגגןמע"
+  },
+  "padding-02": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 4,
+    "$description": "➡️ used in tags ➡️  Misprint: פשגגןמע"
+  },
+  "padding-06": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 20,
+    "$description": "➡️ used in list vertical padding, toast, floating btn ➡️  Misprint: פשגגןמע"
+  },
+  "padding-03": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 8,
+    "$description": "➡️ used in filter btn, badge Misprint: פשגגןמע"
+  },
+  "padding-08": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 28,
+    "$description": "➡️ used in buttons, modals, list horizantal padding, phone margins  ➡️  Misprint: פשגגןמע"
+  },
+  "padding-09": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 32,
+    "$description": "➡️ used in buttons, modals, list horizantal padding, phone margins  ➡️  Misprint: פשגגןמע"
+  }
+}

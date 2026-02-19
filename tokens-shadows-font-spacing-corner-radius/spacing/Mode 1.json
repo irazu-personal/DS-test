@@ -1,0 +1,86 @@
+{
+  "spacing-01": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 2,
+    "$description": "➡️  Misprint: דפשבןמע"
+  },
+  "spacing-02": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 4,
+    "$description": "➡️  Misprint: דפשבןמע"
+  },
+  "spacing-03": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 8,
+    "$description": "➡️  Misprint: דפשבןמע"
+  },
+  "spacing-04": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 12,
+    "$description": "➡️  Misprint: דפשבןמע"
+  },
+  "spacing-05": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 16,
+    "$description": "➡️  Misprint: דפשבןמע"
+  },
+  "spacing-06": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 20,
+    "$description": "➡️  Misprint: דפשבןמע"
+  },
+  "spacing-07": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT",
+        "GAP",
+        "FONT_VARIATIONS"
+      ]
+    },
+    "$type": "number",
+    "$value": 24,
+    "$description": "➡️  Misprint: דפשבןמע"
+  }
+}
