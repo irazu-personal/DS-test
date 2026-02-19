@@ -12,7 +12,7 @@ const radiusTokens = [
 ];
 
 export default {
-  title: '1-Foundations/Corner radius',
+  title: 'Foundations/Corner radius',
   parameters: { layout: 'padded' },
 };
 

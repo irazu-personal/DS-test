@@ -131,7 +131,7 @@ function WidgetbookButton() {
 }
 
 export default {
-  title: '1-Foundations/Typography',
+  title: 'Foundations/Typography',
   parameters: { layout: 'padded' },
 };
 

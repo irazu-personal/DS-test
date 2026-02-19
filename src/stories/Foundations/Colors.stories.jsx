@@ -27,7 +27,7 @@ function Swatch({ token }) {
 }
 
 export default {
-  title: '1-Foundations/Colors',
+  title: 'Foundations/Colors',
   parameters: { layout: 'padded' },
 };
 
