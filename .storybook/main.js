@@ -10,6 +10,12 @@ const config = {
     name: '@storybook/react-vite',
     options: {},
   },
+  viteFinal: (config) => {
+    if (process.env.GITHUB_PAGES === 'true') {
+      config.base = '/DS-test/';
+    }
+    return config;
+  },
 };
 
 export default config;
