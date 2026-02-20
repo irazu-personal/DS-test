@@ -81,7 +81,6 @@ export function Button({ children, variant = 'primary', disabled, loading, ...pr
       style={style}
       disabled={isDisabled}
       aria-busy={loading}
-      aria-disabled={isDisabled}
       onPointerDown={() => !isDisabled && setPressed(true)}
       onPointerUp={() => setPressed(false)}
       onPointerLeave={() => setPressed(false)}

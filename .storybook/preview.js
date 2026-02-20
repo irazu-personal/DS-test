@@ -4,6 +4,11 @@ import '../src/design-tokens.css';
 const preview = {
   parameters: {
     controls: { matchers: /^backgroundColor|color$/ },
+    options: {
+      storySort: {
+        order: ['Foundations', 'Components'],
+      },
+    },
   },
 };
 
