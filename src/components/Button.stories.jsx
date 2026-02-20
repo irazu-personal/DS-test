@@ -21,16 +21,20 @@ export function Ghost() {
 
 export function Disabled() {
   return (
-    <div style={{ display: 'flex', gap: 'var(--spacing-03)' }}>
+    <div style={{ display: 'flex', gap: 'var(--padding-03)' }}>
       <Button variant="primary" disabled>Primary disabled</Button>
       <Button variant="secondary" disabled>Secondary disabled</Button>
     </div>
   );
 }
 
+export function Spinner() {
+  return <Button variant="primary" loading>Loading</Button>;
+}
+
 export function AllVariants() {
   return (
-    <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--spacing-04)' }}>
+    <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--padding-04)' }}>
       <Button variant="primary">Primary</Button>
       <Button variant="secondary">Secondary</Button>
       <Button variant="ghost">Ghost</Button>
